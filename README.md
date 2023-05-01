@@ -13,11 +13,11 @@ feedback to restaurants. Orders can also have complaints made by the user.
 ### SPECS 
 
 ## Frontend 
-PHP 
-Javascript 
-bootstrap (java) 
+PHP <br>
+Javascript <br>
+bootstrap (java) <br>
 
 ## Backend 
-SQLPLUS Oracle databse 
-PHP 
+SQLPLUS Oracle databse <br>
+PHP <br>
 
