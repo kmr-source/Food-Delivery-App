@@ -12,7 +12,7 @@ feedback to restaurants. Orders can also have complaints made by the user.
 
 ### SPECS 
 
-##Frontend 
+## Frontend 
 PHP 
 Javascript 
 bootstrap (java) 
