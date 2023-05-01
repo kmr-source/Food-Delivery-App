@@ -26,3 +26,9 @@ Framework: bootstrap https://getbootstrap.com/ <br>
 SQLPLUS Oracle databse https://docs.oracle.com/cd/B14117_01/server.101/b12170/qstart.htm <br>
 PHP <br>
 
+## Developers 
+Kaiti Mok Rong <br>
+Manek Gujral <br>
+Kush Arora <br>
+
+
